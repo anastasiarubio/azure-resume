@@ -13,6 +13,11 @@ Before you get started, make sure you have the following requirements in place:
 ## Create a local project
 
 Azure Function is created roviding the following information:
+![image](https://github.com/user-attachments/assets/e5de4cbe-46d3-4765-8a1e-218e014a8fa4)
+
+
+![image](https://github.com/user-attachments/assets/0eeae05b-aedb-40ae-890d-383da1b387d6)
+
 
 After New Function is created new files are added to the folder:
 
