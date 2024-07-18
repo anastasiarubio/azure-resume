@@ -14,3 +14,5 @@ Before you get started, make sure you have the following requirements in place:
 
 Azure Function is created roviding the following information:
 
+After New Function is created new files are added to the folder:
+
